@@ -1,0 +1,17 @@
+001 BEGIN
+002     i := 0;
+003
+004     LOOP
+005         i := i + 1;
+006         WHEN i > 10 ==>;
+007         i2 := i*i;
+008         WHEN i2 > 50 ==>;
+009     AGAIN;
+010 END.
+
+                  10 source lines.
+                   0 syntax errors.
+                0.00 seconds total parsing time.
+
+                   0 instructions generated.
+                0.00 seconds total code generation time.

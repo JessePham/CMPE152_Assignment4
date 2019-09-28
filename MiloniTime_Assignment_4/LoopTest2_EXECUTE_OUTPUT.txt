@@ -1,0 +1,23 @@
+===== OUTPUT =====
+
+>>> AT LINE 002: i = 0
+>>> AT LINE 005: i = 1
+>>> AT LINE 007: i2 = 1
+>>> AT LINE 005: i = 2
+>>> AT LINE 007: i2 = 4
+>>> AT LINE 005: i = 3
+>>> AT LINE 007: i2 = 9
+>>> AT LINE 005: i = 4
+>>> AT LINE 007: i2 = 16
+>>> AT LINE 005: i = 5
+>>> AT LINE 007: i2 = 25
+>>> AT LINE 005: i = 6
+>>> AT LINE 007: i2 = 36
+>>> AT LINE 005: i = 7
+>>> AT LINE 007: i2 = 49
+>>> AT LINE 005: i = 8
+>>> AT LINE 007: i2 = 64
+
+                  25 statements executed.
+                   0 runtime errors.
+                0.00 seconds total execution time.
